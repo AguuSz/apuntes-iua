@@ -1,0 +1,19 @@
+1. Crear un programa que pida los siguientes datos de una canción: Artista, Titulo, Duración (en segundos),Tamaño del archivo (en KB). Crear una estructura que almacene datos de la canción y luego los muestre por pantalla.
+
+2. Ampliar el programa del ejercicio anterior, para que almacene datos de hasta 3 canciones en un vector de estructura. Luego crear un menú que permita las opciones: 
+
+a. agregar una nueva canción
+
+b. mostrar todas las canciones
+
+c. buscar una canción por titulo
+
+3. Crear un programa que gestione el listado de los empleados de la empresa. Para ello crear una estructura Empleado, en la cual contenga los siguientes datos: legajo, puesto de trabajo, sueldo. Luego crear un menú que permita las opciones: 
+
+a. agregar un empleado
+
+b. mostrar todos los empleados
+
+c. buscar un empleado por legajo para ver si existe o no.
+
+Generar un vector de estructuras del tipo empleado de tamaño 3. Para cada uno de los ítems del menú crear una función.

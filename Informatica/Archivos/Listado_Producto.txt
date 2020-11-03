@@ -1,0 +1,15 @@
+Nombre:aure
+Marca:aure
+Precio_unitario:aure
+Fecha_de_elaboracion:aure
+Tama¤o:aure
+Nombre:aure
+Marca:aure
+Precio_unitario:aure
+Fecha_de_elaboracion:aure
+Tama¤o:aure
+Nombre:aure
+Marca:aure
+Precio_unitario:aure
+Fecha_de_elaboracion:aure
+Tama¤o:aure

@@ -1,0 +1,5 @@
+Nombre: perro
+Marca: dogo
+Precio unitario: $6255
+Fecha de elaboracion: ayer
+Tama¤o: 123kg

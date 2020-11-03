@@ -1,0 +1,7 @@
+Marca	Modelo	Precio (dolares)
+XIAOMI	NOTE8	100
+SAMSUNG	J7	30
+Marca	Modelo	Precio (dolares)
+XIAOMI	NOTE8	100
+SAMSUNG	J7	30
+LG	G7	450

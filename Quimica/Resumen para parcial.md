@@ -103,6 +103,52 @@ El numero de oxidacion:
 * **Aumenta** si el atomo **pierde** electrones, o los comparte con un atomo que tenga tendencia a **captarlos**.
 * **Disminuye** cuando el atomo **gana** electrones, o los comparte con un atomo que tenga tendencia a **cederlos**.
 
+# Calculo de numeros de oxidacion
+
+Para calcular los **numeros de oxidacion**, vamos a tener en cuenta lo siguiente:
+
+- Todos los elementos en su estado fundamental o sin combinar, **van a tener numero de oxidacion 0**: $$\ce{Fe - O2 - H}$$
+- Alcalinos (los del primer grupo (columna) de la tabla periodica) **van a tener numero de oxidacion +1**:
+$$\ce{H - Li - Na - K - Rb - Cs - Fr}$$
+- Alcalinoterreos(los del grupo (columna) dos de la tabla periodica) **van a tener numero de oxidacion +2**:
+$${He - Be - Mg - Ca - Sr - Ba - Ra}$$
+#### Hidrogeno
+- ${H + metal = -1}$  | **Numero de oxidacion -1**
+- ${H + metal = +1}$  | **Numero de oxidacion +1**
+#### Oxigeno
+- Oxido = **-2**
+- Peroxido = **-1**
+
+## Como calcular el numero de oxidacion cuando estan combinados?
+> Los numeros de oxidacion de los elementos no mencionados anteriormente, significa que varian, y por lo tanto par averiguarlos debemos descubrirlos a partir de la teoria anteriormente explicada.
+1. Intentamos reconocer en la mezcla alguno de los items anteriores, como por ejemplo en esta mezcla: $$ \ce{Na2S} $$
+Como se puede pareciar, el $\ce{Na}$ pertenece al primer grupo de la tabla periodica, por lo tanto sabemos que su numero de oxidacion va a ser **+1**. Ahora, cuando se trata de descubrir el numero de oxidacion del otro elemento, vamos a hacerlos de la siguiente manera: **Arriba** de los elementos ponemos los numeros de oxidacion que sabemos y **Abajo** los calculos auxiliares, que cuales van a ser? En este caso tenemos 2 atomos de $\ce{Na}$ por lo que hacemos **2x1 = 2**. En nuestros calculos auxiliares, la suma nos debe dar 0, por lo que tendriamos hasta el momento (solo sabiendo el numero de oxidacion del $\ce{Na}$) es:
+$$ \ce{Na2S} $$
+$$ +2 + x = 0$$
+Nuestros calculos auxiliares deben dar 0, por lo que la x deberia ser -2. Entonces: **El numero de oxidacion va a ser el $NumeroAuxiliar * Numero de Atomos del Elemento$**
+Por lo que en este caso $-2 * 1$ (siendo 1 el numero de atomos de $\ce{S}$) nos daria que el **numero de oxidacion del $\ce{S}$ es -2**
+-Imagen mas descriptiva:
+![](https://image.prntscr.com/image/BDckwLjRQn6jZeHRTKghBA.png)
+> El verde son los numeros de oxidacion y el rojo los calculos auxiliares
+2. Otro ejemplo de mezcla: $$ \ce{MgS} $$
+Es exactamente igual al anterior, nosotros sabemos que el $ \ce{Mg} $ pertenece al segundo grupo de la tabla periodica por lo tanto su numero de oxidacion es **+2**. Realizamos los mismos pasos anteriores, en este caso el $ \ce{Mg} $ tiene subindice 1 por lo que el numero que utilizaremos en el calculo auxiliar va a ser el mismo que el numero de oxidacion, es decir, +2. Nos queda: $$ 2 + x = 0 $$
+En este caso realizamos el mismo paso anterior y para que se cumpla la ecuacion x debe ser igual a -2, multiplicamos por el subindice del $ \ce{S} $ (en este caso 1) y nos da que el numero de oxidacion del $ \ce{S} $ es igual a **-2**
+![](https://image.prntscr.com/image/aop3bt8PSrKpBqLuWicuEw.png)
+
+3. Ejemplos con $ \ce{H} $
+$$ \ce{FeH3} $$
+En este caso esta acompaniado de un metal, por lo que el numero de oxidacion del hidrogeno sera **-1**, si lo multiplicamos por el subindice (3) nos da -3 (esto es para el calculo auxiliar), por lo tanto la ecuacion auxiliar quedaria: $x - 3 = 0$
+Por lo que todo indica a que el numero de oxidacion del $ \ce{Fe} $ va a ser +3
+![](https://image.prntscr.com/image/PuKlCpoUQjGGKldmvr-PiQ.png)
+Otro ejemplo pero acompaniado de un no metal:
+![](https://image.prntscr.com/image/bPC7UGe-RUiMTeXHyZCxjQ.png)
+
+4. Ejemplos con $ \ce{O} $
+![](https://image.prntscr.com/image/V4zY543rTLOFiQY5DLzGDg.png)
+5. Ejemplos mas complicados con mas sustancias:
+![](https://image.prntscr.com/image/E7ofaGpLQS6a6DcI_gdDbA.png)
+**Este [link](https://www.youtube.com/watch?v=DGUCaiQPdy0) te lleva al video donde se explica todo**
+
 # Entalpia
 
 Entalpia es la cantidad de calor que un sistema termodinamico libera o absorbe del entorno que lo rodea cuando esta a un presion constante, entendiendo por sistema termodinamico cualquier objeto.

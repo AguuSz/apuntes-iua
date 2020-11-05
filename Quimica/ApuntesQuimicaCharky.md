@@ -22,7 +22,7 @@ Todos los demas cationes son metales que pierden los e- para adquirir la estruct
 * O Puede ser **_polar_**: Entre atomos distintos
 * **_Ver vector momento dipolar_**
 
-![Covalentes simples, dobles o triples](https://imgur.com/piLR4ne)
+![Covalentes simples, dobles o triples](https://i.imgur.com/piLR4ne.png)
 
 # Propiedades:
 
@@ -120,7 +120,7 @@ En resumen, las reacciones exotérmicas en las que aumenta el desorden favorecen
 * E° = E°catodo - E°anodo
 
 ## Ejemplo: 
-![](https://imgur.com/e3CE3po)
+![](https://i.imgur.com/e3CE3po.png)
 
 
 

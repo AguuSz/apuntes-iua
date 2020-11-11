@@ -128,3 +128,31 @@ Se pueden encontrar en los pdfs de la carpeta.
 # Autovalores y Autovectores
 
 Se pueden encontrar en los pdfs de la carpeta.
+
+### Resumen
+
+* Espacio fila: Reducis la matriz y son las filas que no sean nulas.
+    - **BRA**(Base renglon de A) = {c1, c2, cn}
+
+c1, c2 y cn son los coeficientes de los renglones 1, 2, n.
+
+* Espacio columna: Reducis la matriz y chequeas las columnas donde haya 1 principales. Esos vectores se extraen de la matriz original(no reducida).
+
+ * **BCRedA**(Base columna de la Reducida de A) = {r1', r2', rn'}, por lo tanto:
+ **BCA**(Base columna de A) = {r1, r2, rn}. 
+
+* Espacio nulo: Reducis la matriz y la igualas a 0.
+    - Se despejan los 1 principales, y se les da valores parametricos a las variables que no tengan pivotes.
+    - Se plantea nulidad: Nu(A) = {x1, x2, xn} y se reemplaza x1, x2, xn por los valores despejados antes. Por ejemplo Nu(A) = {2-s, 3t, -25}.
+* Rango: cantidad de 1 principales en la reducida de A.
+* Nulidad: Cantidad de parametros que se usaron para calcular el Espacio Nulo.
+
+* **Teorema**: Rango(A) + Nulidad(A) = n, siendo n la cantidad de columnas de la matriz A. Sirve para justificar.
+
+## Ecuacion caracteristica y autovectores
+
+* Se calcula det(A-$\lambda$I). Es decir, te quedan todos los valores de A iguales excepto los de la diagonal principal que se transforman en A11-lamda, A22-Lamda, etc. La ecuacion del det(A-lamdaI) es la ecuacion caracteristica.
+* Autovalores: Raices de la ecuacion caracteristica.
+* Autovectores: Se reemplazan los autovalores en el lugar de lamda en la matriz A-LamdaI y se la reduce. La solucion del sist homogeneo (A-lamdaI)x=0 son los autovectores.
+
+$$ proy_{\overrightarrow{V}} \overrightarrow{u}  = \frac{\overrightarrow{u} \cdot \overrightarrow{V}}{|| \overrightarrow{V}^2 ||} \cdot \overrightarrow{V}$$

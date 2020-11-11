@@ -97,3 +97,34 @@ Los vectores columna es lo mismo, pero aplicado con columnas.
 # Espacio renglon, espacio columna y espacio nulo
 
 > Si A es una matriz m x n, entonces el subespacio de $R^n$ generado por los vectores renglon de A se denomina **espacio renglon** de A, y el subespacio de $R^m$ generado por los vectores columna de A se denomina **espacio columna** de A. El espacio solucion del sistema de ecuaciones homogeneo $Ax = 0$, que es un subespacio de $R^n$, se denomina **espacio nulo**.
+
+**Teorema importante**:
+
+> Si A es cualquier matriz, entonces el espacio renglon y el espacio columna de A tienen la misma dimension.
+
+# Rango y nulidad
+
+La dimension comun del espacio renglon y del espacio columna de  una matriz A se denomina **rango** de A y se denota por rango(A); la dimension del espacio nulo de A se denomina **nulidad** de A y se denota por Nu(A).
+
+Para encontrar la nulidad de A es necesario determinar la dimension del espacio solucion del sistema lineal $Ax = 0$. Este sistema se puede resolver expresando la matriz aumentada en la forma escalonada reducida.
+
+> Si A es cualquier matriz, entonces $Ran(A) = Ran(A^T)$.
+
+Teorema de la dimension:
+
+> Si A es una matriz con **n** columnas, entonces:
+> $$ rango(A) + nulidad(A) = n $$
+
+Otro teorema importante:
+
+> Si A es una matriz n x n, entonces:
+> 1. Rango(A) $\rightarrow$ Numero de variables principales que hay en la solucion de $Ax = 0$.
+> 1. Nulidad(A) $\rightarrow$ Numero de parametros que hay en la solucion de $Ax = 0$ 
+
+# Ortonormalidad y ortogonalidad
+
+Se pueden encontrar en los pdfs de la carpeta.
+
+# Autovalores y Autovectores
+
+Se pueden encontrar en los pdfs de la carpeta.

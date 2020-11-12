@@ -8,6 +8,19 @@
 
 **Si no se cumple alguno de los 10 axiomas, entonces no es considerado un espacio vectorial.**
 
+## Axiomas
+
+1. Si $\overline{U}$ y $\overline{V}$ son objetos en V, entonces $ U \oplus V $ esta en V.
+1. Si $\overline{U} \bigoplus \overline{V} = \overline{V} \bigoplus \overline{U} $
+1. $ \overline{U} \bigoplus (\overline{V} \bigoplus \overline{W}) =  (\overline{U} \bigoplus \overline{V}) \bigoplus \overline{W} $
+1. Existe un objeto $\overline0$ en V, denominado vector cero de V, tal que $\overline{0} \bigoplus \overline{u} = \overline{u}$
+1. Para todo u existe un objeto -u en V, denominado opuesto de u, tal que $ u \bigoplus (-u) = (-u) \bigoplus u = \overline{0}$
+1. Si K es un producto escalar y U es cualquier objeto en V, entonces $ K \oplus U $ esta en V.
+1. $ k \bigodot (u \bigoplus v) = k \bigodot u \bigoplus k \bigodot v $
+1. $ (k + L) \bigodot u = k\bigodot u \bigoplus L \bigodot u$
+1. $ k \bigodot (L \bigodot u) = (k \cdot L) \bigodot u $
+1. $ 1 \bigodot u = u $ 
+
 # Subespacios vectoriales
 
 Definicion: 
@@ -24,14 +37,12 @@ Teorema:
 
 | Subespacios en $R^2$          | Subespacios en $R^3$           |
 |-------------------------------|--------------------------------|
-| - {0}                         | {0}                            |
-| - Rectas que pasan por origen | Rectas que pasan por origen    |
-| - $R^2$                       | Planos que pasan por el origen |
-|                               | - $R3$                         |
+| {0}                           | {0}                            |
+| Rectas que pasan por origen   | Rectas que pasan por origen    |
+| $R^2$                         | Planos que pasan por el origen |
+|                               | $R^3$                         |
 
 Para comprobar si es un subespacio vectorial de $R^n$ tenemos que verificar si se cumple el axioma 1 y axioma 6.
-
-### Axiomas
 
 1) **Axioma 1** $\rightarrow$ Si $\overline{U}$ y $\overline{V}$ son objetos en V, entonces $ U \oplus V $ esta en V.
 6) **Axioma 6** $\rightarrow$ Si K es un producto escalar y U es cualquier objeto en V, entonces $ K \oplus U $ esta en V.
@@ -144,8 +155,13 @@ c1, c2 y cn son los coeficientes de los renglones 1, 2, n.
 * Espacio nulo: Reducis la matriz y la igualas a 0.
     - Se despejan los 1 principales, y se les da valores parametricos a las variables que no tengan pivotes.
     - Se plantea nulidad: Nu(A) = {x1, x2, xn} y se reemplaza x1, x2, xn por los valores despejados antes. Por ejemplo Nu(A) = {2-s, 3t, -25}.
-* Rango: cantidad de 1 principales en la reducida de A.
-* Nulidad: Cantidad de parametros que se usaron para calcular el Espacio Nulo.
+* **Rango**: cantidad de 1 principales en la reducida de A.
+
+![](https://i.imgur.com/cqg3JGT.png)
+
+* **Nulidad**: Cantidad de parametros que se usaron para calcular el Espacio Nulo.
+
+![](https://i.imgur.com/CpAU40Z.png)
 
 * **Teorema**: Rango(A) + Nulidad(A) = n, siendo n la cantidad de columnas de la matriz A. Sirve para justificar.
 

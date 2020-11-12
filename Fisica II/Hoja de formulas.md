@@ -294,29 +294,6 @@ $σ = \frac{Q}{A} $
     * $ρ$ : Densidad volumétrica de carga
     $ρ = \frac{Q}{V} $
 
-##### Campo eléctrico en cuerpos especiales
-
-* Varilla
-
-$ E = E_x = \frac{K \cdot Q}{d \cdot \sqrt{d^2 + a^2}} $
-
-> $a$ : Longitud de la varilla / 2
-> $d$ : Distancia del punto a medir hacia la varilla
-
-* Anillo
-
-$E = E_x = \frac {K \cdot Q \cdot x}{(\sqrt{x^2 + a^2})^3} $
-
->$x$ : Distancia del punto a medir hasta el centro del anillo
->$a$ : Radio del anillo
-
-* Disco
-
-$ E = E_x = K \cdot x \cdot 2π \cdot σ \cdot (\frac{1}{x} - \frac {1}{\sqrt{x^2 + R^2}}) $
-
->$R$ : Radio del disco
->$x$ : distancia del punto al eje del disco
-
 ### Lineas de campo o flujo eléctrico
 
 $Φ_E = \displaystyle\int_s  E \cdot cos (θ) \cdot d A$
@@ -326,58 +303,6 @@ $Φ_E = \displaystyle\int_s  E \cdot cos (θ) \cdot d A$
 * $ε$ : Permitividad del vacio. $Cte = 8,85x10^-12$
 
 $Φ_E = \frac{Q_{enc}}{ε_0}$
-
-#### Aplicacion de la ley de Gauss en cuerpos puntuales
-
-* $R$ : Radio del cuerpo
-* $r$ : Radio de la superficie gaussiana
-
-##### Esfera conductora
-
-* Dentro de la esfera
-     $E = 0$
-
-* Fuera de la esfera
-
-    $E = \frac {Q}{ε_0 \cdot 4π \cdot r^2}$
-
-##### Esfera no conductora
-
-* Dentro de la esfera
-    $E = \frac {Q}{ε_0 \cdot 4π \cdot R^3} \cdot r$
-
-* Fuera de la esfera
-    $E = \frac {Q}{ε_0 \cdot 4π \cdot r^2}$
-
-##### Alambre recto e infinito
-
-$E = \frac{λ}{ε_0 \cdot 2π \cdot r} $
-
-##### Cilindro conductor
-
-> $λ = σ \cdot 2π \cdot R $
-
-* Dentro del cilindro
-    $E = 0$
-
-* Fuera del cilindro
-    $E = \frac{σ \cdot R}{ε_0 \cdot r} $ ó $E = \frac{λ}{ε_0 \cdot 2π \cdot r} $
-
-##### Cilindro no conductor
-
-* Dentro del cilindro 
-    $E = \frac {ρ}{2 \cdot ε_0} \cdot r$
-
-* Fuera del cilindro
-    $E = \frac {ρ \cdot R^2}{2 \cdot ε_0 \cdot r} $
-
-##### Lámina infinita plana cargada (Medio capacitor)
-
-$E = \frac{σ}{2 \cdot ε_0} $
-
->Si se ponen 2 placas de cargas opuestas enfrentadas, los campos se suman y queda dentro de ellas:
-
-$E = \frac{σ}{ε_0} $
 
 ### Potencial eléctrico
 
@@ -401,59 +326,6 @@ $V_B - V_A = \frac{K \cdot q}{r_B} - \frac{K \cdot q}{r_A} $
     $V_= \frac{K \cdot q}{r} $
 
 $U = q \cdot V$
-
-#### Potencial eléctrico desde cuerpos puntuales
-
-##### Anillo
-
-* $a$ : Radio del anillo
-* $x$ : Distancia desde el punto a medir hasta el centro del anillo
-
-$V = \frac{K \cdot Q}{\sqrt{a^2 + x^2}} $
-
-##### Disco
-
-* $R$ : Radio del disco
-* $x$ : Distancia desde el punto a medir hasta el eje del disco
-$V = K \cdot 2π \cdot σ \cdot (\sqrt{R^2+x^2} - |x|) $
-
-#### Potencial en conductores
-
-$V_B = V_A$
-
-#### Potencial eléctrico de cuerpos puntuales
-
-##### Esfera conductora
-
-* Fuera de la esfera
-    $V = \frac{q}{ε_0 \cdot 4π \cdot r} $
-* Dentro de la esfera (Es cte.)
-    $V = \frac{q}{ε_0 \cdot 4π \cdot R} $
-
-##### Esfera no conductora
-
-
-* Fuera de la esfera
-    $V = \frac{q}{ε_0 \cdot 4π \cdot r} $
-* Dentro de la esfera (Es cte.)
-    $V = \frac{q}{ε_0 \cdot 8π \cdot R} - (3 - \frac{r^2}{R^2}) $
-
-##### Alambre infinito
-
-* $r_0$ : Distancia a arbitraria para elegir v = 0
-* $r$ : Radio de la superficie Gaussiana
-
-$V = \frac{λ}{2π \cdot ε_0} \cdot ln(\frac{r_0}{r}) $
-
-##### Cilindro conductor de largo infinito
-
->V va a ser 0 en los bordes del cilindro (R)
-
-* Dentro del cilindro
-    $V = 0$
-
-* Fuera del cilindro
-    $V = \frac{λ}{2π \cdot ε_0} \cdot ln(\frac{R}{r}) $
 
 ### Capacitores de vacío 
 
@@ -492,3 +364,45 @@ $ U = \frac{Q^2}{2C} = \frac{1}{2} \cdot C \cdot (ΔV)^2 $
 #### Densidad de energia
 
 $u = \frac{1}{2} \cdot  ε_0 \cdot E^2$
+
+
+>Hasta aca llega el segundo parcial 
+
+### Corriente eléctrica
+
+* $I$ : Intesidad de corriente
+* $Q$ : Carga eléctrica [C]
+* $t$ : Tiempo [s]
+* $n$ : Densidad de portadores [$1/m^3$]
+* $A$ : Area transversal del conductor [m]
+* $V_d$ : Velocidad de deriva, velocidad a la que se mueven las cargas en el medio [m/s]
+
+$I = \frac{Q}{t} $
+
+$I = n \cdot Q \cdot A \cdot V_d $
+
+### Ley de Ohm
+
+* $j$ : Densidad de corriente [$A/m^2$]
+* $I$ : Intensidad de corriente [A]
+* $A$ : Area transversal del conductor [$m^2$]
+* $ρ$ : Resistividad del material (tabla) [$Ω \cdot m$]
+* $L$ : Longitud del conductor [m]
+* $R$ : Resistencia [Ω]
+* $V$ : Potencial eléctrico [V]
+
+$j = \frac{I}{A} = n \cdot Q \cdot V_d$
+
+**$E = ρ \cdot j$**
+
+$E = \frac{V}{L}$
+
+$R = \frac{ρ \cdot L}{A}$
+
+**$V = R \cdot I$**
+
+### Potencia eléctrica
+
+* $W$ : Potencia
+
+$W = V \cdot I$

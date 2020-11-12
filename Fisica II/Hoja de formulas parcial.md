@@ -243,3 +243,39 @@ $ U = \frac{Q^2}{2C} = \frac{1}{2} \cdot C \cdot (ΔV)^2 $
 $u = \frac{energia}{volumen}$
 
 $u = \frac{1}{2} \cdot  ε_0 \cdot E^2$
+
+## Resumen Parcial:
+
+* Vector campo electrico: $E=\frac{K.q}{(rp-ri)^3}*r$
+    * Tambien se puede calcular como $\frac{\sigma}{\epsilon_0}$
+    * Donde $\sigma = \frac{Q}{A}$
+
+* Potencial Electrico en un punto: 
+    * $V=\frac{K.q}{r}$ porque suponemos V=0 en el infinito, se calcula una vez para cada r y despues se suman V1+V2+VN.
+    * Diferencia de potencial entre A y B es $\Delta V = - \int_{a}^{b}Edl.cos(\alpha)$ (Con $\alpha$ siendo el angulo entre E y $\mathscr{L}$)
+    Aplicando la formula de arriba:
+    $\Delta V = - \int_a^b \frac{\sigma}{\epsilon_0}.dl$
+    $\Delta V = - \frac{\sigma}{\epsilon_0}\int_a^b dl$
+    $\int_a^b dl = l$ (La distancia entre las placas)
+    $\Delta V = - \frac{\sigma.d}{\epsilon_0}$
+    Aplicando la definicion de $\sigma$
+    $\Delta V = - \frac{Q.d}{\epsilon_0.A}$
+
+
+
+* Capacitancia o Capacidad: $C=\frac{|Q|}{|\Delta V|}$
+    * Placa A= Placa positiva
+    * Placa B = placa negativa
+
+    $C = \frac{|Q|}{|\Delta V|}$
+    $C = \frac{|Q|}{|- \frac{Q.d}{\epsilon_0.A}|}$
+    $C = \frac{|Q|}{\frac{|Q|.d}{\epsilon_0.A}}$
+    $C = \frac{|Q|\epsilon_0.A}{|Q|.d}$
+    $C = \frac{\epsilon_0.A}{d}$
+
+    * Capacitancia de una esfera: $C = 4\pi\epsilon_0.r$
+    * capacitancia de una figura en general: $C=A.\epsilon_0$
+
+    * Capacitancia de placas cilindricas: 
+        * $\Delta V = \frac{Q}{2\pi\epsilon_0l}.Ln(\frac{b}{a})$
+        * $C = \frac{Q}{\Delta V} = \frac{2\pi\epsilon_0.l}{Ln(\frac{b}{a})}$

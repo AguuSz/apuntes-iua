@@ -244,6 +244,11 @@ $u = \frac{energia}{volumen}$
 
 $u = \frac{1}{2} \cdot  ε_0 \cdot E^2$
 
+#### Energia de un capacitor
+
+$$ U = \frac{Q^2}{2C} = \frac{1}{2}\cdot C(ΔV)^2 $$
+
+
 ## Resumen Parcial:
 
 * Vector campo electrico: $E=\frac{K.q}{(rp-ri)^3}*r$

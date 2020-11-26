@@ -17,6 +17,8 @@ Es la cantidad de calor liberado o absorbido en una reaccion quimica, que se lle
 Para la reaccion exotermica, la entalpia es **negativa**.
 Para la endotermica, la entalpia es **positiva**.
 
+**Va a ser 0 el $\Delta H$ cuando el elemento sea basico, es decir, se encuentre solo.**
+
 # Ley de hess
 
 La cantidad de calor involucrado en una reaccion quimica es siempre la misma, independientemente si la reaccion procede en 1 o mas etapas.

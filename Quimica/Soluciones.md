@@ -17,10 +17,10 @@ $\frac{molesSoluto}{v(L)Solucion} = M$
 Nos informa cuantos moles de soluto tengo cada 1000gr de **solvente**.
 $\frac{molesSoluto}{m(kg)Solvente} = m$
 
-# %p/p f
+# %p/p aka %m/m
 
 $ porcentaje \cdot p/p  = \frac{masaSoluto}{masaSolvente} \cdot 100 $
 
-# %p/v
+# %p/v aka %m/v
 
 $ porcentaje \cdot p/v = \frac{masaSoluto}{VSolucion} \cdot 100 $

@@ -4,7 +4,7 @@
 
 * $F$ : Fuerza electroestática [N]
 * $K$ : cte. $=9x10^9$ $[\frac{N\cdot m^2}{C^2}]$
-* $\epsilon_0 = 8, 85x10^-12$ (epsilon)
+* $\epsilon_0 = 8, 85.10^{-12}$ (epsilon)
 * $q$ : Carga eléctrica puntual [C]
 * $r$ : Radio / Distancia entre cargas [m]
 
@@ -14,7 +14,7 @@ $\overrightarrow{F} = \frac{K\cdot |q_1 \cdot q_2|}{r^2} \cdot \hat{r}$
 
 $\overrightarrow{F_t} = \overrightarrow{F_1} + \overrightarrow{F_2} + ... +\overrightarrow{F_n} $
 
-### Campo elétrico
+### Campo eléctrico
 
 * $\overrightarrow{E}$ : Campo eléctrico [N/C] ó [V/m]
 
@@ -247,12 +247,13 @@ $u = \frac{1}{2} \cdot  ε_0 \cdot E^2$
 ## Resumen Parcial:
 
 * Vector campo electrico: $E=\frac{K.q}{(rp-ri)^3}*r$
-    * Tambien se puede calcular como $\frac{\sigma}{\epsilon_0}$
-    * Donde $\sigma = \frac{Q}{A}$
+    - Tambien se puede calcular como $\frac{\sigma}{\epsilon_0}$
+    - Donde $\sigma = \frac{Q}{A}$
 
 * Potencial Electrico en un punto: 
-    * $V=\frac{K.q}{r}$ porque suponemos V=0 en el infinito, se calcula una vez para cada r y despues se suman V1+V2+VN.
-    * Diferencia de potencial entre A y B es $\Delta V = - \int_{a}^{b}Edl.cos(\alpha)$ (Con $\alpha$ siendo el angulo entre E y $\mathscr{L}$)
+    - $V=\frac{K.q}{r}$ porque suponemos V=0 en el infinito, se calcula una vez para cada r y despues se suman V1+V2+VN.
+    - Diferencia de potencial entre A y B es $\Delta V = - \int_{a}^{b}Edl.cos(\alpha)$ (Con $\alpha$ siendo el angulo entre E y $\mathscr{L}$)
+
     Aplicando la formula de arriba:
     $\Delta V = - \int_a^b \frac{\sigma}{\epsilon_0}.dl$
     $\Delta V = - \frac{\sigma}{\epsilon_0}\int_a^b dl$
@@ -261,11 +262,9 @@ $u = \frac{1}{2} \cdot  ε_0 \cdot E^2$
     Aplicando la definicion de $\sigma$
     $\Delta V = - \frac{Q.d}{\epsilon_0.A}$
 
-
-
 * Capacitancia o Capacidad: $C=\frac{|Q|}{|\Delta V|}$
-    * Placa A= Placa positiva
-    * Placa B = placa negativa
+    - Placa A= Placa positiva
+    - Placa B = placa negativa
 
     $C = \frac{|Q|}{|\Delta V|}$
     $C = \frac{|Q|}{|- \frac{Q.d}{\epsilon_0.A}|}$
@@ -273,9 +272,14 @@ $u = \frac{1}{2} \cdot  ε_0 \cdot E^2$
     $C = \frac{|Q|\epsilon_0.A}{|Q|.d}$
     $C = \frac{\epsilon_0.A}{d}$
 
-    * Capacitancia de una esfera: $C = 4\pi\epsilon_0.r$
-    * capacitancia de una figura en general: $C=A.\epsilon_0$
+    - Capacitancia de una esfera: $C = 4\pi\epsilon_0.r$
+    - capacitancia de una figura en general: $C=A.\epsilon_0$
 
-    * Capacitancia de placas cilindricas: 
+    - Capacitancia de placas cilindricas: 
         * $\Delta V = \frac{Q}{2\pi\epsilon_0l}.Ln(\frac{b}{a})$
         * $C = \frac{Q}{\Delta V} = \frac{2\pi\epsilon_0.l}{Ln(\frac{b}{a})}$
+
+Clases para ver 
+
+* Clase 18 (Potencial electrico en superficies raras)
+* Clase 19 (Potencial electrico de un alambre infinito - pagina 13)

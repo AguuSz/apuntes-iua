@@ -1,14 +1,17 @@
 # MRU
+
 $D = v * t$
 $T = d/v$
 $V = d/t$
 
 # MRUV
+
 $D = Vo * T + 1/2 * a  t^2$
 $Vf = Vo + at$
 $Vf^2 = Vo^2 + 2ad$
 
 # Tiro oblicuo
+
 | Eje X                     | Eje Y                                                |
 |---------------------------|------------------------------------------------------|
 | $ X = X_0 + v_x \cdot t $ | $ Y = Y_0 + V_{0y} \cdot t + \frac{1}{2}g \cdot t^2$ |
@@ -16,6 +19,7 @@ $Vf^2 = Vo^2 + 2ad$
 | $ a = 0 $                 | $ g = -9, 8 $                                         |
 
 # MCU
+
 | Que calculamos            | Formula                                                                                       | Unidades          |
 |-------------------------  |-----------------------------------------------------------------------------------------------|----------         |
 | $\overrightarrow{r}(t)$   | $R \cdot cos(\theta) \cdot \overrightarrow{i} + R \cdot sen(\theta) \cdot \overrightarrow{j}$ | $m$               |
@@ -27,16 +31,17 @@ $Vf^2 = Vo^2 + 2ad$
 | $F$                       | $ \frac{\omega}{2\pi} $                                                                       | $\frac{1}{s}$     |
 
 # Dinamica
+
 ####Segunda Ley de Newton
 $ \displaystyle \sum {\overrightarrow{F}} = m \cdot \overrightarrow{a} $
 
 # Trabajo y Energia
+
 $W = F * d * cos (180)$
 ####Fuerzas conservativas
 $EmecI = EmecF$
 ####Fuerzas no conservativas
 $Wnc = EmecF - EmecI$
-
 
 | Energias                    | Formula                                                 |
 |---------------------------|------------------------------------------------------|
@@ -56,4 +61,11 @@ $I = Pfc - Pic$
 ####Conservacion momento lineal
 $Pi = Pf$
 
+# Rotacion (rolido)
 
+Torque 
+$ T = F \cdot d \cdot cos(\theta) $
+
+Condicion de rolido
+$ A_{cm} = \alpha \cdot R $
+$ V_{cm} = \omega \cdot R $

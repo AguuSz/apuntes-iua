@@ -66,6 +66,9 @@ $Pi = Pf$
 Torque 
 $ T = F \cdot d \cdot cos(\theta) $
 
+Sumatoria de torque
+$ \sum T = I \cdot \alpha $
+
 Condicion de rolido
 $ A_{cm} = \alpha \cdot R $
 $ V_{cm} = \omega \cdot R $

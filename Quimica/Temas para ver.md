@@ -28,6 +28,9 @@ En un periodo $\Longrightarrow$ aumenta de **izquierda a derecha** porque la car
 
 Mitad de la distancia internuclear minima que presenta una molecula diatomica de ese elemento en estado solido. 
 
+* Grupo: Radio aumenta de arriba a abajo.
+* Periodo: $Z_{ef}$ aumenta de izquierda a derecha $rightarrow$ Radio aumenta de derecha a izquierda.
+
 ## Radio ionico
 
 Aca vemos la diferencia de la distancia que tienen los atomos en estado neutral, con sus iones. Donde podemos observar que cuando estamos en presencia de un cation, el radio va a ser menor que el del estado neutral. Esto se debe a que el cation tiene menos carga negativa, por lo que la fuerza positiva actua con mas fuerza sobre cada electron (se distribuye en menos cargas).

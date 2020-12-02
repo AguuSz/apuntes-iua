@@ -42,3 +42,10 @@ Variacion de la energia que hay cuando un atomo en estado neutral adquiere un e-
 
 * Grupo: Radio aumenta de arriba a abajo $\rightarrow$ AE aumenta de abajo a arriba.
 * Periodo: $Z_{ef}$ aumenta de izquierda a derecha $\rightarrow$ AE aumenta de izquierda a derecha.
+
+## Electronegatividad
+
+Capacidad que tiene un atomo para atraer hacia el mismo, un par de electrones que comparte con otro atomo en un enlace quimico.
+
+* Grupo: Radio aumenta de arriba a abajo $\rightarrow$ EN aumenta de abajo a arriba.
+* Periodo: $Z_{ef}$ aumenta de izquierda a derecha $\rightarrow$ EN aumenta de izquierda a derecha.

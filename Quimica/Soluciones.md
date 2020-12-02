@@ -19,7 +19,7 @@ $\frac{molesSoluto}{m(kg)Solvente} = m$
 
 # %p/p aka %m/m
 
-$ porcentaje \cdot p/p  = \frac{masaSoluto}{masaSolvente} \cdot 100 $
+$ porcentaje \cdot p/p  = \frac{masaSoluto}{masaSolucion} \cdot 100 $
 
 # %p/v aka %m/v
 

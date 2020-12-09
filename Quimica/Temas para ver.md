@@ -1,13 +1,6 @@
 # Listado de temas por ver
 
 * Rayos catodicos y rayos canales
-* Teoria de bandas
-* Geometria de la molecula (la gallega)
-
-¿Por qué el radio atómico y la energía de ionización presentan tendencias periódicas opuestas?
-
-Mientras menor sea la carga efectivo, mas lejos va a estar el ultimo nivel, entonces va a ser mas grande el radio. Mientras mayor carga efectiva, menor va a ser el radio.
-Mientras mayor la fuerza que hace el nucleo, mas cerca va a estar el electron del ultimo nivel, por lo tanto, menor va a ser el radio.
 
 # Propiedades quimicas
 
@@ -29,7 +22,7 @@ En un periodo $\Longrightarrow$ aumenta de **izquierda a derecha** porque la car
 Mitad de la distancia internuclear minima que presenta una molecula diatomica de ese elemento en estado solido. 
 
 * Grupo: Radio aumenta de arriba a abajo.
-* Periodo: $Z_{ef}$ aumenta de izquierda a derecha $rightarrow$ Radio aumenta de derecha a izquierda.
+* Periodo: $Z_{ef}$ aumenta de izquierda a derecha $\rightarrow$ Radio aumenta de derecha a izquierda.
 
 ## Radio ionico
 
@@ -49,3 +42,8 @@ Capacidad que tiene un atomo para atraer hacia el mismo, un par de electrones qu
 
 * Grupo: Radio aumenta de arriba a abajo $\rightarrow$ EN aumenta de abajo a arriba.
 * Periodo: $Z_{ef}$ aumenta de izquierda a derecha $\rightarrow$ EN aumenta de izquierda a derecha.
+
+¿Por qué el radio atómico y la energía de ionización presentan tendencias periódicas opuestas?
+
+Mientras menor sea la carga efectivo, mas lejos va a estar el ultimo nivel, entonces va a ser mas grande el radio. Mientras mayor carga efectiva, menor va a ser el radio.
+Mientras mayor la fuerza que hace el nucleo, mas cerca va a estar el electron del ultimo nivel, por lo tanto, menor va a ser el radio.

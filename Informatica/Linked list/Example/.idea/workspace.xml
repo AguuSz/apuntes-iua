@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="Example" targetName="Example" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d8e03d0a-9a4b-4b69-9dd1-60053de656ee" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1iKigwO5aA70KBab6zeJ8jsYtYo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Juego/Juego-de-los-simpsons-1.4-oficial" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Example" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Example" TARGET_NAME="Example" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Example" RUN_TARGET_NAME="Example">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d8e03d0a-9a4b-4b69-9dd1-60053de656ee" name="Default Changelist" comment="" />
+      <created>1601662799599</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601662799599</updated>
+      <workItem from="1601662802932" duration="6991000" />
+      <workItem from="1601989236376" duration="65000" />
+      <workItem from="1602263257026" duration="2821000" />
+      <workItem from="1603130830090" duration="42000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601664152668">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1601664152668" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1603130870624">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1603130870624" />
+    <state width="418" height="222" key="GridCell.Tab.0.bottom" timestamp="1601681933732">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="418" height="222" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1601681933732" />
+    <state width="418" height="222" key="GridCell.Tab.0.center" timestamp="1601681933731">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="418" height="222" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1601681933731" />
+    <state width="418" height="222" key="GridCell.Tab.0.left" timestamp="1601681933710">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="418" height="222" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1601681933710" />
+    <state width="418" height="222" key="GridCell.Tab.0.right" timestamp="1601681933732">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="418" height="222" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1601681933732" />
+    <state width="418" height="222" key="GridCell.Tab.1.bottom" timestamp="1601681933790">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="418" height="222" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1601681933790" />
+    <state width="418" height="222" key="GridCell.Tab.1.center" timestamp="1601681933732">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="418" height="222" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1601681933732" />
+    <state width="418" height="222" key="GridCell.Tab.1.left" timestamp="1601681933732">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="418" height="222" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1601681933732" />
+    <state width="418" height="222" key="GridCell.Tab.1.right" timestamp="1601681933743">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="418" height="222" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1601681933743" />
+    <state x="471" y="96" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1601668462358">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="471" y="96" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1366.728@0.0.1366.728" timestamp="1601668462358" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint enabled="true" type="CidrExceptionBreakpoint" />
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

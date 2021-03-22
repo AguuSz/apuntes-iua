@@ -1,5 +1,7 @@
 # Superficies cuadraticas
 
+* Traza : Representacion de la figura asignano 0 a una de las variables (Reduccion del espacio 3D a 2D)
+
 * $ X_0 $ : Desplazamiento en X 
 * $ Y_0 $ : Desplazamiento en Y
 * $ Z_0 $ : Desplazamiento en Z
@@ -25,7 +27,7 @@ $ \frac{(X - X_0)^2}{a^2} + \frac{(Y - Y_0)^2}{b^2} -  \frac{(Z - Z_0)^2}{c^2} =
 
 ## Hiperboloide de dos hojas
 
-![alt text](https://lh3.googleusercontent.com/proxy/3J8S3y1H_LarmMJJDYw9J50X58wZWN51v4nK9qX-S-vruUKSisCzwr8chW9QoAnIVGaesJyODdmOM2z0SL3Q17-1AznBAniWciue5-1HR6vup8Y6CQjEgli3Og8jAGz4Bh47amxYtio)
+![alt text](https://www.urbipedia.org/images/thumb/d/de/Hiperboloide_dos_hojas.png/240px-Hiperboloide_dos_hojas.png)
 
 $ \frac{(X - X_0)^2}{a^2} - \frac{(Y - Y_0)^2}{b^2} -  \frac{(Z - Z_0)^2}{c^2} = 1$
 

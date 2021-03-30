@@ -85,3 +85,25 @@ Los SGBD se adaptan a este tipo de aplicación, incorporando:
 1. Finalmente el SGBD declara finalizada la operacion y devuelve el control al usuario.
 
 # Modelos de BD
+
+## Herramientas de los modelos de BD
+
+1. *Estructuras de datos*: Tablas, arboles, etc.
+1. *Restricciones (o reglas) de integridad*: Dominios, claves, etc.
+1. *Operaciones*: Para trabajar con los datos. Ej. SELECT
+
+## Tipos de modelos
+
+1. Jerarquico
+Aparecio al principio de los 60´s. Son registros interrelacionados de arboles.
+![](https://upload.wikimedia.org/wikipedia/commons/e/e6/DB_jerarquica.png)
+1. En Red
+Aparece en los 70´s. Muy parecido al anterior pero ahora los hijos pueden ser de varios padres.
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Network_Model.svg/320px-Network_Model.svg.png)
+1. Relacional
+De los 80´s. Basado en tablas interrelacionadas, nos permite abstraernos de las conecciones fisicas de la BD.
+![](https://sciencewarsdotcom.files.wordpress.com/2017/08/reservaciones.png?w=896&h=443&crop=1)
+1. Relacional con objetos
+Aparece en la actualidad. Centrados en los datos y no en las funciones que se pueden hacer sobre los mismos. Nos permite una mayor independencia ante los cambios de funcionalidades y/o tratamiento de los datos almacenados.
+
+# Lenguajes y usuarios
